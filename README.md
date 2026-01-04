@@ -1,5 +1,5 @@
 # MyProjects
 #Projects : 
 
-<p> 1 > My 42 piscine</p>
+<p> 1 > My home works</p>
 <p>2025</p>

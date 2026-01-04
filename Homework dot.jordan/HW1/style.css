@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* container top*/
+.containerTop
+{
+    text-align: center;
+    width: 700px;   
+    margin: 20px auto;
+
+}
+
+/* container cards*/
+.cardContainer{
+    margin-top: 5px;
+    display: flex;
+    gap: 20px;
+    align-content: center;
+    
+}
+
+/*card style*/
+.card{
+    margin: 20px;
+    border-top: 4px solid #d4af37;
+    border-radius: 5px;
+    padding: 5px 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.218);
+         
+    
+}
+
+
+/*style for img*/
+.card img{
+    
+    padding-bottom: 10px;
+    border-bottom: 3px solid #d4af37;
+    
+}
